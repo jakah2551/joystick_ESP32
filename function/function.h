@@ -1,0 +1,1 @@
+double gestisciAngolo(double x, double y, bool r);
